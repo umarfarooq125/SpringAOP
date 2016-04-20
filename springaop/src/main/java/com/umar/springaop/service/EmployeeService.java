@@ -1,4 +1,6 @@
-package com.umar.springaop.model;
+package com.umar.springaop.service;
+
+import com.umar.springaop.model.Employee;
 
 public class EmployeeService {
 
